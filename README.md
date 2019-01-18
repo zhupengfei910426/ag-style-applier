@@ -1,2 +1,2 @@
 # ag-style-applier
-When the current URL contains the specific string, the current HTML element will apply to a specific css class.
+This is an angular directive in order to apply specific css classes to any HTML element when the current url includes certain string.
